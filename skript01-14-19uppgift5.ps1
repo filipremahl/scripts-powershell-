@@ -1,0 +1,1 @@
+﻿gsv | where-object {@("Running") -contains $_.Status}
