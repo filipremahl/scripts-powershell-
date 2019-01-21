@@ -1,0 +1,1 @@
+﻿"TestQAGroup","TestManagersGroup","TestDevGroup","TestAdministrators" | ForEach-Object {New-ADGroup -Name $_-GroupScope Global}
