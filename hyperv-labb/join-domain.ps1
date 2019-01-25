@@ -1,0 +1,1 @@
+﻿add-computer -ComputerName testest -DomainName filipsdomain.com -Credential admin
